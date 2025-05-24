@@ -84,6 +84,8 @@ This project demonstrates my ability to:
 
 **Manousos Klados**  
 Data Scientist | Neuroscience Researcher | Python Enthusiast
+
+
 Personal websites: https://linktr.ee/thephdmentor
 Twitter: https://twitter.com/mklados
 LinkedIn: https://www.linkedin.com/in/mklados
